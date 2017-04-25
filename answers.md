@@ -1,0 +1,4 @@
+Deck of cards 
+Shuffle deck , deal 9 cards, if two cards = 11 then remove them cards and replace with two new cards from the shuffled decked, repeat this until no matches of 11, then look for a J Q K if there is a J Q K then remove them 3 and replace with 3 cards on top of the deck, do these stages until no move is makeable then its game over if all the cards are gone then you win else you lose
+Yes it does 
+a)deal my cards in the code is called in the newgame method alos in the constructor when a new game is started                                 b)another play is possible / is legal                                    c)0,1,3,6,7                                                           d)for (Interger i :cIndexes) {                                            System.out.println(board.cards[i].toString())                         }                                                                  e)another play is possible 
