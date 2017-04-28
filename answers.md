@@ -1,0 +1,3 @@
+All the games take a deck of cards and some of the functions are the same like deal, deck size and empty  so are alomost the same but are diffrent like is legal and some are only in some games like JQK
+in the board class. indide the construcor, the values are passed into the constructor of the super class
+They cover the differences because the methods that are the same for all the games can be put in one class and others that are slightly diffrent require diffrent implmentations and so are put in respective games
